@@ -1,9 +1,9 @@
-
 {
     "name": "Weather Forecast",
     "short_name": "Weather",
     "description": "A simple weather forecasting PWA",
     "start_url": "./index.html",
+    "scope": "./",
     "display": "standalone",
     "background_color": "#4facfe",
     "theme_color": "#4facfe",
